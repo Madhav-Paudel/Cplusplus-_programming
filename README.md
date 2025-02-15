@@ -1,4 +1,8 @@
 # C++ Programming Repository.
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+
 Welcome to the C++ Programming Repository! This repository contains a collection of C++ programs that cover both fundamental and advanced topics in C++. Whether you're a beginner looking to learn the basics or an intermediate learner looking for practical examples, this repository can assist.
 ## Table of Contents
 
