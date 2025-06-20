@@ -19,3 +19,42 @@ int main()
     }
     delete(ptr);
 }
+
+
+
+/*
+#include<iostream>
+using namespace std;
+class test1
+{
+    private:
+    int size;
+    public:
+        int *ptr=new int[size];
+    void getdata()
+    {
+        cout<<"enter the size of array"<<endl;
+    cin>>size;
+
+        for(int i=0;i<size;i++)
+        {
+            cout<<"enter "<<i+1<<" data"<<endl;
+            cin>>ptr[i];
+        }
+    }
+    void display()
+    {
+        cout<<"The data you enter are "<<endl;
+        for(int i=0;i<size;i++)
+        {
+            cout<<ptr[i]<<endl;
+            
+        }
+    }
+};
+int main()
+{
+    test1 obj1;
+    obj1.getdata();
+    obj1.display();
+}*/

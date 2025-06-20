@@ -1,5 +1,4 @@
 // virtual destructor
-
 #include <iostream>
 using namespace std;
 class Base

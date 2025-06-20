@@ -1,0 +1,2 @@
+this will be written in the text file
+this is second line of code 

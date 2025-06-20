@@ -10,7 +10,8 @@ private:
 
 public:
     person() 
-   {name=" ";
+   { 
+    name=" ";
        age=0;
    }
 

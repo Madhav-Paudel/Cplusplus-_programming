@@ -13,11 +13,12 @@ int main()
             throw deo;
         }
         result=neo/deo;
+        cout<<"division is :"<<result<<endl;
     }
     catch(int ex)
     {
        cout<<"this is not possible "<<ex<<endl; 
     }
-    cout<<"division is :"<<result<<endl;
+    
     
 }

@@ -1,3 +1,4 @@
+// friend class example 
 #include<iostream>
 using namespace std;
 class myclass1

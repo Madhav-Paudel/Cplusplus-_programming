@@ -20,6 +20,6 @@ int main()
     cout<<"entered"<<i+1<<"number\n";
     cout<<ptr[i]<<endl;
     }
-
+delete (ptr);
     
 }

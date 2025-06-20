@@ -16,7 +16,7 @@ int main()
 
 
 }
-int swap(int x,int y)
+int swap(int &x,int &y)
 {
     int temp;
     temp=x;

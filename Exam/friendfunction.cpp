@@ -22,7 +22,7 @@ int functionnam(tesing &d){
 int main()
 {
     tesing obj;
-    cout<<"the number is"<<functionnam(obj);
+    cout<<"the number is "<<functionnam(obj);
 
 
     return 0;

@@ -1,3 +1,4 @@
+// example of default,paramaterize and copy constructor
 #include <iostream>
 using namespace std;
 class testing{

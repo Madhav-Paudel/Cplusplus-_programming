@@ -38,7 +38,6 @@ class time
         sec=sec%60;
         hr=hr+min/60;
         min=min%60;
-
     }
     void outputData()
     {
